@@ -54,8 +54,9 @@
 &emsp;
 [![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/solutions/continuous-integration/)
 <img width="12" />
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqH0hnifhgcr2hvJL6E3MydosBJhjIxBDUBQ&s" height="40" alt="php logo"  />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqH0hnifhgcr2hvJL6E3MydosBJhjIxBDUBQ&s" height="40" alt=" logo"  />
 <img width="12" />
+
 
 ## 🌟 Contact Me
 <div align="left">
